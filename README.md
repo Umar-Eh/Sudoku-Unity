@@ -1,14 +1,5 @@
 # Sudo app #
 
-Repository for Principles of software and requirement SOFE 2720
-
-### Group members ###
-- Muhammad Ehsan
-- Hyon Lee
-- Walid Safi 
-- Diba Shoejaeigoradel
-----------------
-
 ### Instructions ###
 1. If you do not have Unity, and visual studio installed, access to script (code) may be difficult 
 
